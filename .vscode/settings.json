@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/d9b3ad45-aa3a-4620-bdf6-3279f437b527/resourceGroups/Learning-Web-App/providers/Microsoft.Web/sites/webappCLItoolvscode",
+    "appService.deploySubpath": "Publish\\Publish"
+}
